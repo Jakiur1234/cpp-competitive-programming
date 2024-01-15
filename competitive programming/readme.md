@@ -1,0 +1,1 @@
+# Learn from Errichto. [click to go](https://codeforces.com/blog/Errichto)
