@@ -1,1 +1,2 @@
-# Learn from Errichto. [click to go](https://codeforces.com/blog/Errichto)
+# Learn from Errichto. 
+## [Click to go codforces of errichto blog.](https://codeforces.com/blog/Errichto)
